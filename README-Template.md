@@ -32,6 +32,6 @@ Hoy en día conocemos la importancia de los tableros de anuncios en lugares púb
 | Armar el proyecto físicamente | Comprar materiales |
 | Programar (si es el caso) | Armar el proyecto físicamente |
 | Realizar pruebas de funcionamiento | Armar el proyecto físicamente y programar | 
-| Terminar detalles | Todas las anteriores | 
-| Concluir reporte | Todas las anteriores |
+| Terminar detalles | Realizar pruebas de funcionamiento | 
+| Concluir reporte | Terminar detalles |
 
