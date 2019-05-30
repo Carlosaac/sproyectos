@@ -11,6 +11,7 @@ Hoy en día conocemos la importancia de los tableros de anuncios en lugares púb
 | ------------- |
 | Investigar |
 | Hacer bosquejo general |
+| Desarro analítico |
 | Realizar simulaciones |
 | Hacer lista de materiales y costos |
 | Comprar materiales |
