@@ -6,7 +6,7 @@ Hoy en día conocemos la importancia de los tableros de anuncios en lugares púb
 ![alt text](1.png "Logo Title Text 1")
 
 # Ruta crítica 
-
+## Lista de actividades
 | Actividades   | 
 | ------------- |
 | Investigar |
@@ -20,13 +20,13 @@ Hoy en día conocemos la importancia de los tableros de anuncios en lugares púb
 | Realizar pruebas de funcionamiento |
 | Terminar detalles | 
 | Concluir reporte |
-
+## Dependencia entre actividades
 | Nombre de la tarea| Dependencia con otra actividad | 
 | ------------- | ------------- |
 | Investigación |  |
 | Hacer bosquejo general | Investigar |
 | Desarrollo analítico | Hacer bosquejo general |
-| Realizar simulaciones | Desarrollo analírico |
+| Realizar simulaciones | Desarrollo analítico |
 | Hacer lista de materiales y costos | Investigación | 
 | Comprar materiales | Hacer lista de materiales y costos |
 | Armar el proyecto físicamente | Comprar materiales |
@@ -34,3 +34,4 @@ Hoy en día conocemos la importancia de los tableros de anuncios en lugares púb
 | Realizar pruebas de funcionamiento | Armar el proyecto físicamente y programar | 
 | Terminar detalles | Todas las anteriores | 
 | Concluir reporte | Todas las anteriores |
+
