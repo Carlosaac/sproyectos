@@ -5,4 +5,17 @@ Este tablero electrónico inalámbrico se usa para mostrar datos enviados desde 
 Hoy en día conocemos la importancia de los tableros de anuncios en lugares públicos como estaciones de ferrocarril, de autobuses y en aeropuertos. Con la implementación de este proyecto la tarea de cambiar dichos avisos se vuelve más sencilla al usar un dispositivo móvil. 
 ![alt text](1.png "Logo Title Text 1")
 
-Abad Chávez Carlos Alberto
+# Ruta crítica 
+
+| Actividades   | 
+| ------------- |
+| Investigar |
+| Hacer lista de materiales y costos |
+| Comprar materiales |
+| Armar proyecto |
+| Programar (si es el caso) |
+| Realizar pruebas |
+| Concluir reporte |
+
+
+
