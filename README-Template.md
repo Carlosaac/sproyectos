@@ -21,5 +21,16 @@ Hoy en día conocemos la importancia de los tableros de anuncios en lugares púb
 | Terminar detalles | 
 | Concluir reporte |
 
-
-
+| Nombre de la tarea| Dependencia con otra actividad | 
+| ------------- | ------------- |
+| Investigación |  |
+| Hacer bosquejo general | Investigar |
+| Desarrollo analítico | Hacer bosquejo general |
+| Realizar simulaciones | Desarrollo analírico |
+| Hacer lista de materiales y costos | Investigación | 
+| Comprar materiales | Hacer lista de materiales y costos |
+| Armar el proyecto físicamente | Comprar materiales |
+| Programar (si es el caso) | Armar el proyecto físicamente |
+| Realizar pruebas de funcionamiento | Armar el proyecto físicamente y programar | 
+| Terminar detalles | Todas las anteriores | 
+| Concluir reporte | Todas las anteriores |
