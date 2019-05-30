@@ -10,11 +10,14 @@ Hoy en día conocemos la importancia de los tableros de anuncios en lugares púb
 | Actividades   | 
 | ------------- |
 | Investigar |
+| Hacer bosquejo |
+| Realizar simulaciones |
 | Hacer lista de materiales y costos |
 | Comprar materiales |
-| Armar proyecto |
+| Armar proyecto en físico |
 | Programar (si es el caso) |
-| Realizar pruebas |
+| Realizar pruebas de funcionamiento |
+| Terminar detalles | 
 | Concluir reporte |
 
 
