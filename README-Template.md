@@ -10,7 +10,7 @@ Hoy en día conocemos la importancia de los tableros de anuncios en lugares púb
 | Actividades   | 
 | ------------- |
 | Investigar |
-| Hacer bosquejo |
+| Hacer bosquejo general |
 | Realizar simulaciones |
 | Hacer lista de materiales y costos |
 | Comprar materiales |
