@@ -9,12 +9,8 @@
 ## PERIODO: MAYO - AGOSTO 2019
 
 # SISTEMA DE SEGURIDAD GSM
-Inline-style: 
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
- 
- Reference-style: 
-![alt text][logo]
+![687474703a2f2f736d6172746563682e636f6d2e65632f77702d636f6e74656e742f75706c6f6164732f323031362f30332f47534d2d333030783230352e6a7067](https://user-images.githubusercontent.com/50605741/63074597-905f3600-bef3-11e9-97b9-f2cd3f2aa781.jpg)
 
-[logo]: http://smartech.com.ec/wp-content/uploads/2016/03/GSM-300x205.jpg
+
 
 
